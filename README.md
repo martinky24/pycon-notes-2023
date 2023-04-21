@@ -2,20 +2,23 @@
 
 [Link to daily talks schedule](https://us.pycon.org/2023/schedule/talks/)
 
-## Friday, April 21
+## Key Takeaways
+
+- Lots of talks on asyncio!
+- Speed gains in Python 3.11 are pretty legit, literally for free, and are worth upgrading over
+
+## Schedule Plan
+
+### Friday, April 21
 
 - 9:30
   - Keynote
 - 10:45
-  - An Overview of the Python code Tool Lanscape 2023
+  - ~~An Overview of the Python code Tool Lanscape 2023~~ (canceled)
   - 355DEF
 - 11:30
-  - Option 1:
-    - Inside CPython 3.11's new specializing, adaptive interpreter
-    - 355DEF
-  - Option 2:
-    - How Python is Behind the Science of the James Webb Space Telescope
-    - 355ABC
+  - Inside CPython 3.11's new specializing, adaptive interpreter
+  - 355DEF
 - 12:15
   - Option 1:
     - Consistency and isolation for Python programmers
@@ -44,8 +47,7 @@
   - Pythonic `functional` (`iter`)tools for your data challenges
   - 255ABC
 
-
-## Saturday, April 22
+### Saturday, April 22
 
 - 9:00
   - Python Steering Council Panel
@@ -93,7 +95,7 @@ Samuel Colvin
   - 255ABC
   - (Maybe skip if I need a break)
 
-## Sunday, April 23
+### Sunday, April 23
 
 - 9:00
   - Keynote
