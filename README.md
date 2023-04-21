@@ -19,22 +19,10 @@
 - 11:30
   - Inside CPython 3.11's new specializing, adaptive interpreter
   - 355DEF
-- 12:15
-  - Option 1:
-    - Consistency and isolation for Python programmers
-    - 355DEF
-  - Option 2:
-    - Building NumPy Arrays from CSV Files, Faster than Pandas
-    - 255DEF
 - 1:30
-  - Option 1:
-    - Introducing incompatible changes in Python
-    - Victor Stinner
-    - 355DEF
-  - Option 2:
-    - Working Around the GIL with asyncio
-    - Łukasz Langa
-    - 255DEF
+  - Introducing incompatible changes in Python
+  - Victor Stinner
+  - 355DEF
 - 2:30
   - Break?
 - 3:15
