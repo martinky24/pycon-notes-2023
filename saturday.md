@@ -67,3 +67,15 @@ Great talk on how memory allocation and such works. Worth watching the topic is 
 Cool talk, very interesting "under the hood stuff". Doesn't affect day to days but satiates curiosity.
 
 ## How To Keep A Secret ([link](https://us.pycon.org/2023/schedule/presentation/149/))
+
+- Secret management in Python
+- Use a password manager!
+- CIA Triad: Confidentiality, integrity, availability
+- USE THE LOCAL KEYRING MODULE ([link](https://pypi.org/project/keyring/))
+- Encrypt disk
+
+Cool talk. Glyph is a legend. Worth watching!
+
+## Vectorize all the things! Using linear algebra and NumPy to make your Python code lightning fast. ([link](https://us.pycon.org/2023/schedule/presentation/140/))
+
+Really good talk for motivating cases for vectorization in scientific code! Probably worth watching for anyone close to applications here
