@@ -26,7 +26,6 @@ Cool talk. Worth watching if you're into Python internals.
 
 - Talked about some incompatible changs from python 2 -> python 3, what motivated some of them, and how they caused problems
 - Talked about some of the reasons the python 2 -> python 3 upgrade cycle took ~10 years for the masses
-
 - The "Faster CPython" effort around 3.11 relied on changing some deep internals that some people integrating with the C api could have relied on.
 
 Probably not worth watching. The content is interesting, but not required for anyone's day-to-day, and the presenter isn't great at public speaking.
