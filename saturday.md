@@ -27,6 +27,12 @@ Presenter not great, but if someone is completley new to Python linting it could
 
 ## Python's syntactic sugar ([link](https://us.pycon.org/2023/schedule/presentation/41/))
 
+- Brett Cannon, core deveoper and Python Steering Council member
+- Basically defines any piece of non-super-essential syntax as sugar. Get's very conservative with "essential". Basically 10 things, `int`, `def`, assignments, `try`/`except`. Gets rid of stuff like `class`, `plus`, loops, attribute access, decorators, etc...
+- [Here](https://snarky.ca/tag/syntactic-sugar/) is Brett's website with this talk as blog posts
+
+Cool talk. Pretty theoretical, but very consumable by anyone whose familiar with Python. Interesting, worth watching for a "fun talk".
+
 ## How Pydantic V2 leverages Rust's Superpowers ([link](https://us.pycon.org/2023/schedule/presentation/39/))
 
 ## Subclassing, Composition, Python, and You ([link](https://us.pycon.org/2023/schedule/presentation/7/))
